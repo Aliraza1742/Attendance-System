@@ -142,11 +142,3 @@ Choose the options to interact with the system.
 *   Make sure Attendance.xlsx is not open in Excel when running the script to avoid file access issues.
     
 
-🔒 Security Note
-----------------
-
-*   Passwords are stored in plain text in Excel.
-    
-*   No user authentication encryption is implemented.
-    
-*   This is **not suitable for production** without additional security layers.
