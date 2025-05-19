@@ -114,11 +114,15 @@ Password-protected access (Namal123) for Rector to:
 
 Run the program:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopyEditpython attendance.py   `
+```bash
+   python attendance.py
+```
 
 You will see this menu:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   markdownCopyEditCampus Attendance System  1. Entry (Mark Attendance)  2. Signup  3. Get Information  4. Exit  5. Ban List (Rector Access)  0. Quit   `
+``` bash
+Campus Attendance System  1. Entry (Mark Attendance)  2. Signup  3. Get Information  4. Exit  5. Ban List (Rector Access)  0. Quit
+```
 
 Choose the options to interact with the system.
 
