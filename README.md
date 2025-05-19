@@ -121,7 +121,13 @@ Run the program:
 You will see this menu:
 
 ``` bash
-Campus Attendance System  1. Entry (Mark Attendance)  2. Signup  3. Get Information  4. Exit  5. Ban List (Rector Access)  0. Quit
+Campus Attendance System
+1. Entry (Mark Attendance)
+2. Signup
+3. Get Information
+4. Exit
+5. Ban List (Rector Access)
+0. Quit
 ```
 
 Choose the options to interact with the system.
